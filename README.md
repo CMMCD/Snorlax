@@ -43,7 +43,7 @@ None Currently.
 
 ## Contributors
 
-If you wish to make a contribution to the Snorlax project feel free to contact me through GitHub.
+If you wish to expand upon Snorlax Sort, feel free! 
 
 ## License
 

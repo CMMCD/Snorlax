@@ -40,5 +40,3 @@ class snorlax {
     System.out.println(snorlaxSpeak);
   }
 }
-
-

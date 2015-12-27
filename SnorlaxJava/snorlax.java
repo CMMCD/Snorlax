@@ -2,13 +2,13 @@
  * Note that this high efficiency comes with certain accuracy drawbacks outlined in the readme
  * 
  * @author github.com/CMMCD/ 
- * @version 1.1
+ * @version 1.3
  */
 
-class snorlax {
+public class snorlax {
   
   // Your Snorlax's name.
-  String name;
+  private String name;
   
   /* Class constructor.
    * 

@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-Snorlax is an sorting algorithm with extremely high efficiency O(1).
+Snorlax is a sorting algorithm with extremely high efficiency O(1).
 The implementation in this repository is written in Java.
 
 All sorting algorithms have drawbacks, things like difficulty to implement, 

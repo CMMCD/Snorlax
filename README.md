@@ -34,7 +34,7 @@ would allow for faster computation in all areas, lowering the price of computing
 Snorlax is simply a java class that must be downloaded and moved to the directory you want to use it.
 Once moved to your project's directory you can create a new snorlax. 
 ```Java
-"Aslan", snorlax Aslan = new snorlax("Aslan");
+snorlax Aslan = new snorlax("Aslan");
 ```
 
 ## API Reference

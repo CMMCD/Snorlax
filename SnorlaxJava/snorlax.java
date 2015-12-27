@@ -1,5 +1,5 @@
-/** Snorlax is an advanced sorting algorithm with extremely high efficiency
- *  Note that this high efficiency comes with certain accuracy drawbacks outlined in the readme
+/** Snorlax is an advanced sorting algorithm with extremely high efficiency.
+ *  Note that this high efficiency comes with certain accuracy drawbacks outlined in the readme.
  * 
  *  @author github.com/CMMCD/ 
  *  @version 1.3

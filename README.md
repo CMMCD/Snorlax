@@ -12,7 +12,7 @@ This means that in some cases Snorlax can return lists that are not completely s
 
 ## Code Example
 
-'''
+```Java
 // Creating an example array to be sorted
 int[] input = {1,24,1283786,999999999};
     
@@ -21,7 +21,7 @@ snorlax Aslan = new snorlax("Aslan");
     
 // Using Aslan to call snorlaxSort on our array
 int[] sortedInput = Aslan.sort(input);
-'''
+```
 
 ## Motivation
 

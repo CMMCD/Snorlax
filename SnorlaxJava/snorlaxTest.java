@@ -15,7 +15,5 @@ class snorlaxExcample {
     
     // Using Aslan to call snorlaxSort on our array
     Aslan.snorlaxSort(input);
-    
-    int[] r = Aslan.sort(input);
   }
 }

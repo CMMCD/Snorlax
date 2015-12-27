@@ -1,10 +1,10 @@
 /* This is an example of using the Snorlax sort
  * 
  * @author github.com/CMMCD/ 
- * @version 1.1
+ * @version 1.2
  */
 
-class snorlaxExcample {
+public class snorlaxExample {
   public static void main(String[] args){
 
     // Creating an example array to be sorted

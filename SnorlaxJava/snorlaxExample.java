@@ -1,7 +1,7 @@
-/* This is an example of using the Snorlax sort
+/** This is an example of using the Snorlax sort
  * 
- * @author github.com/CMMCD/ 
- * @version 1.2
+ *  @author github.com/CMMCD/ 
+ *  @version 1.2
  */
 
 public class snorlaxExample {

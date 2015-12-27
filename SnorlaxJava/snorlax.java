@@ -33,10 +33,9 @@ public class snorlax {
    *  @param snorlax Integer Array passed to Snorlax for sorting.
    */
   public void snorlaxSort(int[] snorlax) {
-    int[] snorlaxSorted = sort(snorlax);
     System.out.println("Greetings, I am " + name + "! Here is your sorted array, enjoy!");
     String snorlaxSpeak = "";
-    for (int zzz : snorlaxSorted) snorlaxSpeak += zzz + " ";
+    for (int zzz : sort(snorlax)) snorlaxSpeak += zzz + " ";
     System.out.println(snorlaxSpeak);
   }
 }

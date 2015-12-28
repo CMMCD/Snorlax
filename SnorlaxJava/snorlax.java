@@ -24,6 +24,11 @@ public class snorlax {
    *  @return The usualy* sorted input. *See readme for more information*
    */
   public int[] sort(int[] snorlax) {
+    try {
+      Thread.sleep(1000);
+    } catch (InterruptedException e) {
+      // Don't worry about it, just enjoy your nap.
+    }
     return snorlax;
   }
   

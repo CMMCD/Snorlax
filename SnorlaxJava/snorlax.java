@@ -5,7 +5,7 @@
  *  @version 1.3
  */
 
-public class snorlax {
+public class Snorlax {
   
   // Your Snorlax's name.
   private String name;
@@ -14,7 +14,7 @@ public class snorlax {
    * 
    *  @param name What you choose to name your Snorlax.
    */
-  public snorlax(String name){
+  public Snorlax(String name){
     this.name = name;
   }
   

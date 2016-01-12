@@ -4,16 +4,16 @@
  *  @version 1.2
  */
 
-public class snorlaxExample {
+public class SnorlaxExample {
   public static void main(String[] args){
 
     // Creating an example array to be sorted
     int[] input = {1,24,1283786,999999999};
     
-    // Creating a new snorlax named Aslan
-    snorlax Aslan = new snorlax("Aslan");
+    // Creating a new Snorlax named Aslan
+    Snorlax aslan = new Snorlax("Aslan");
     
-    // Using Aslan to call snorlaxSort on our array
-    Aslan.snorlaxSort(input);
+    // Using aslan to call snorlaxSort on our array
+    aslan.snorlaxSort(input);
   }
 }

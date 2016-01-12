@@ -16,11 +16,11 @@ This means that in some cases Snorlax can return lists that are not completely s
 // Creating an example array to be sorted
 int[] input = {1,24,1283786,999999999};
     
-// Creating a new snorlax named Aslan
-snorlax Aslan = new snorlax("Aslan");
+// Creating a new Snorlax named Aslan
+Snorlax aslan = new Snorlax("Aslan");
     
 // Using Aslan to call snorlaxSort on our array
-int[] sortedInput = Aslan.sort(input);
+int[] sortedInput = aslan.sort(input);
 ```
 
 ## Motivation
@@ -32,9 +32,9 @@ would allow for faster computation in all areas, lowering the price of computing
 ## Installation
 
 Snorlax is simply a java class that must be downloaded and moved to the directory you want to use it.
-Once moved to your project's directory you can create a new snorlax. 
+Once moved to your project's directory you can create a new Snorlax. 
 ```Java
-snorlax Aslan = new snorlax("Aslan");
+Snorlax aslan = new Snorlax("Aslan");
 ```
 
 ## API Reference
